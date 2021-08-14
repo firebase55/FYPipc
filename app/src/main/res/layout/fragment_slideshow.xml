@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Dahsboard.ui.slideshow.SlideshowFragment">
+
+  <androidx.appcompat.widget.SearchView
+      android:layout_width="match_parent"
+      android:layout_marginLeft="3dp"
+      android:layout_marginRight="3dp"
+      android:layout_marginTop="10dp"
+      android:background="@drawable/newdesign"
+      android:layout_height="wrap_content">
+
+  </androidx.appcompat.widget.SearchView>
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_below="@+id/add"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/addnewpage"
+        android:background="@drawable/add"
+        android:layout_height="30dp">
+
+    </ImageView>
+  <androidx.cardview.widget.CardView
+      android:layout_width="match_parent"
+      android:layout_marginTop="10dp"
+      app:cardCornerRadius="10dp"
+      android:layout_marginLeft="10dp"
+      android:layout_marginRight="10dp"
+      android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:weightSum="4"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_weight="1"
+          android:weightSum="2"
+          android:orientation="horizontal"
+          android:layout_height="0dp">
+        <TextView
+            android:layout_width="0dp"
+            android:textSize="17dp"
+            android:textColor="@color/black"
+            android:layout_weight="1"
+            android:gravity="start"
+            android:layout_marginLeft="10dp"
+            android:text="FYP Text"
+            android:layout_height="40dp">
+
+        </TextView>
+        <TextView
+            android:layout_width="0dp"
+            android:textSize="17dp"
+            android:textColor="@color/black"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            android:gravity="end"
+            android:text="..."
+            android:layout_height="40dp">
+
+        </TextView>
+      </LinearLayout>
+      <ImageView
+          android:layout_width="40dp"
+          android:layout_weight="1"
+          android:background="@drawable/cemra"
+          android:layout_marginLeft="10dp"
+          android:layout_height="40dp">
+
+      </ImageView>
+      <androidx.core.widget.ContentLoadingProgressBar
+          android:layout_width="match_parent"
+          android:layout_marginTop="10dp"
+          android:layout_weight="1"
+          android:background="@color/yellow"
+          android:layout_height="5dp">
+
+      </androidx.core.widget.ContentLoadingProgressBar>
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_weight="1"
+          android:weightSum="2"
+          android:orientation="horizontal"
+          android:layout_height="0dp">
+        <TextView
+            android:layout_width="0dp"
+            android:textSize="17dp"
+            android:textColor="@color/black"
+            android:layout_weight="1"
+            android:gravity="start"
+            android:layout_marginLeft="10dp"
+            android:text="2010-2-2"
+            android:layout_height="40dp">
+
+        </TextView>
+        <View
+            android:layout_width="4dp"
+            android:background="@drawable/add"
+            android:layout_height="4dp">
+
+        </View>
+        <TextView
+            android:layout_width="0dp"
+            android:textSize="17dp"
+            android:textColor="@color/black"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            android:gravity="end"
+            android:text="1022-4-7"
+            android:layout_height="40dp">
+
+        </TextView>
+      </LinearLayout>
+    </LinearLayout>
+
+
+  </androidx.cardview.widget.CardView>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/task"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/todo"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/project"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/employ"
+            android:icon="@drawable/empl"
+            android:title="@string/employ" />
+        <item
+            android:id="@+id/calender"
+            android:icon="@drawable/cl"
+            android:title="@string/cal" />
+    </group>
+</menu>

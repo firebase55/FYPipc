@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable-v24/shape2.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable-v24/sinin_design.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable/cemra.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable/newdesign.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable/newshap.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable/project.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable/task.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable/todo.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_addnew_project.xml" value="0.25" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_registered.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/employ.xml" value="0.1" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/fragment_gallery.xml" value="0.10778985507246377" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/fragment_home.xml" value="0.20108695652173914" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/fragment_slideshow.xml" value="0.10778985507246377" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/nav_header_dashboard.xml" value="0.20108695652173914" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

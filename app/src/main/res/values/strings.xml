@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FYPipc</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Tasks</string>
+    <string name="menu_gallery">Todo</string>
+    <string name="menu_slideshow">Projects</string>
+    <string name="employ">Employ</string>
+    <string name="cal">Calendar</string>
+</resources>
