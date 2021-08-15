@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FYPipc">
         <activity
+            android:name=".chatClasspackeg.chatMainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".todolist.todolistActivity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".newMeeting.newmettingActivity"
+            android:exported="true" />
+        <activity
             android:name=".emplodataActivity.EmployActivity"
             android:exported="true" />
         <activity
@@ -19,22 +28,22 @@
             android:name=".Dahsboard.dashboard"
             android:exported="true"
             android:label="@string/title_activity_dashboard"
-            android:theme="@style/Theme.FYPipc.NoActionBar">
+            android:theme="@style/Theme.FYPipc.NoActionBar"></activity>
+        <activity
+            android:name=".LoginandRegistered.loginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginandRegistered.Registered"
+            android:exported="true"></activity>
+        <activity
+            android:name=".datepickerclass.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".LoginandRegistered.loginActivity"
-            android:exported="true" />
-        <activity
-            android:name=".LoginandRegistered.Registered"
-            android:exported="true" />
-        <activity
-            android:name=".datepickerclass.MainActivity"
-            android:exported="true" />
     </application>
 
 </manifest>
