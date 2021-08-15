@@ -1,15 +1,23 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    android:orientation="vertical"
     android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:background="@color/yellow"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin">
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="Group Chat "
+        android:layout_centerHorizontal="true"
+        android:id="@+id/chat_id"
+        android:onClick="list"
+        android:layout_height="50dp">
 
-</LinearLayout>
+    </Button>
+</RelativeLayout>

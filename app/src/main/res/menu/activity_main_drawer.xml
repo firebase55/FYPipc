@@ -28,5 +28,9 @@
             android:id="@+id/notify"
             android:icon="@drawable/notify"
             android:title="@string/notify" />
+        <item
+            android:id="@+id/chat"
+            android:icon="@drawable/chat"
+            android:title="@string/chat" />
     </group>
 </menu>

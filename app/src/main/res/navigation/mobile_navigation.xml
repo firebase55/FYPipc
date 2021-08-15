@@ -37,4 +37,9 @@
         android:name="com.example.fypipc.notification.notification_data"
         android:label="@string/notify"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/chat"
+        android:name="com.example.fypipc.Dahsboard.ui.chat"
+        android:label="@string/chat"
+        tools:layout="@layout/fragment_slideshow" />
 </navigation>

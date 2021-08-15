@@ -23,17 +23,21 @@
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_todolist.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/app_bar_dashboard.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/calender.xml" value="0.1" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/chat.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/content_dashboard.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/employ.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/fragment_gallery.xml" value="0.10778985507246377" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/fragment_home.xml" value="0.20108695652173914" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/fragment_slideshow.xml" value="0.10778985507246377" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/message_in.xml" value="0.1" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/message_out.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/nav_header_dashboard.xml" value="0.20108695652173914" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/new_task.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/notify.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/task_layout.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/menu/dashboard.xml" value="0.1696969696969697" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/menu/menu_sign_out.xml" value="0.16111111111111112" />
       </map>
     </option>
   </component>
