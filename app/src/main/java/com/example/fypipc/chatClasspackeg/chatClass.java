@@ -10,7 +10,7 @@ public class chatClass
     private long messageTime;
     public chatClass()
     {
-//
+
     }
     public chatClass(String messageText, String messageUser) {
         this.messageText = messageText;

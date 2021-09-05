@@ -31,6 +31,7 @@
       android:layout_marginTop="10dp"
       app:cardCornerRadius="10dp"
       android:layout_marginLeft="10dp"
+     android:id="@+id/newtask"
       android:layout_marginRight="10dp"
       android:layout_height="wrap_content">
     <LinearLayout
@@ -48,6 +49,7 @@
             android:layout_width="0dp"
             android:textSize="17dp"
             android:textColor="@color/black"
+            android:id="@+id/getNAme"
             android:layout_weight="1"
             android:gravity="start"
             android:layout_marginLeft="10dp"

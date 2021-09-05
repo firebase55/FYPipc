@@ -12,14 +12,15 @@
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable/project.xml" value="0.2169230769230769" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable/task.xml" value="0.2169230769230769" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/drawable/todo.xml" value="0.2169230769230769" />
-        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_addnew_project.xml" value="0.25" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_addnew_project.xml" value="0.22" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_chat_main.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_employ.xml" value="0.18" />
-        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_login.xml" value="0.16" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_newmetting.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_registered.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_taskactivity.xml" value="0.17192982456140352" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/activity_todolist.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/app_bar_dashboard.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/calender.xml" value="0.1" />
@@ -29,15 +30,24 @@
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/fragment_gallery.xml" value="0.10778985507246377" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/fragment_home.xml" value="0.20108695652173914" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/fragment_slideshow.xml" value="0.10778985507246377" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/frgment.xml" value="0.1" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/frgment1.xml" value="0.1" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/frgment2.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/message_in.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/message_out.xml" value="0.1" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/music.xml" value="0.153125" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/musicFrgment.xml" value="0.1" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/nav_header_dashboard.xml" value="0.20108695652173914" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/new_task.xml" value="0.1" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/newlayout.xml" value="0.17192982456140352" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/notify.xml" value="0.1" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/people.xml" value="0.17192982456140352" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/task_layout.xml" value="0.1" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/layout/taskgroup.xml" value="0.17192982456140352" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/menu/dashboard.xml" value="0.1696969696969697" />
         <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/menu/menu_sign_out.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/aqif/AndroidStudioProjects/FYPipc/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18552631578947368" />
       </map>
     </option>
   </component>

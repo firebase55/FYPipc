@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.DatePicker;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import com.example.fypipc.Dahsboard.ui.slideshow.SlideshowFragment;
@@ -67,5 +68,11 @@ public class addnewProject extends AppCompatActivity implements DatePickerDialog
     }
 
 
+    public void save(View view)
+    {
+        EditText editText = (EditText) findViewById(R.id.name);
+        String name = editText.getText().toString().trim();
 
+
+    }
 }

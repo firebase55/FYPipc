@@ -10,13 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FYPipc">
         <activity
+            android:name=".taskactivity"
+            android:exported="true" />
+        <activity
             android:name=".chatClasspackeg.chatMainActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".todolist.todolistActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".newMeeting.newmettingActivity"
             android:exported="true" />
@@ -38,7 +39,9 @@
             android:exported="true" />
         <activity
             android:name=".LoginandRegistered.Registered"
-            android:exported="true"></activity>
+            android:exported="true">
+
+        </activity>
         <activity
             android:name=".datepickerclass.MainActivity"
             android:exported="true">

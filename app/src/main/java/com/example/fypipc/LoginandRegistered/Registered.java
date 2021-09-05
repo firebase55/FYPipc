@@ -33,21 +33,36 @@ public class Registered extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_registered);
+
+
+
         mAuth = FirebaseAuth.getInstance();
         FirebaseApp.initializeApp(this);
+
+
+        // ya code isa front or back dono link han
         main_page_button = (TextView) findViewById(R.id.login_page);
         login_page = (TextView) findViewById(R.id.login_pagee);
         name_Field = (EditText) findViewById(R.id.name);
         adress_Field = (EditText) findViewById(R.id.adress);
         email_Field = (EditText) findViewById(R.id.emai);
         pass_Field = (EditText) findViewById(R.id.pass);
+
+
+
+
+
+
         main_page_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                // field sa data get krna ka code
                 String nametext = name_Field.getText().toString().trim();
                 String adresstext = adress_Field.getText().toString().trim();
                 String emailtext = email_Field.getText().toString().trim();
                 String passtext = pass_Field.getText().toString().trim();
+
+
                 if (nametext.isEmpty() || adresstext.isEmpty() || emailtext.isEmpty() || passtext.isEmpty()) {
                     Toast.makeText(Registered.this, "Enter data Please", Toast.LENGTH_SHORT).show();
                 } else {
